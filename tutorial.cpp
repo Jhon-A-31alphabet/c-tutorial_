@@ -11,6 +11,8 @@ int main()
 
 
 {
+    
+    //se pueden agregar doble tipo a una variable por ejemplo-------------- cont float x = 3.142364
     //variables
     int primer_variable = 64;
     float a;
