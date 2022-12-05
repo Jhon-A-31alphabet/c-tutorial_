@@ -32,6 +32,8 @@ int main()
     cout<<"ingresa un valor"<<endl;
     cin>>palabra; //es cin es equivalente a input en python
 
+
+
     system("pause");
     //operadores aritmeticos +-*/=%
 
