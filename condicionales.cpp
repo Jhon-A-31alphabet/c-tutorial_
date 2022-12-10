@@ -1,6 +1,7 @@
 #include<iostream>
 #include<stdio.h>
 using namespace std;
+void condicional_do();
 
 int main(){
     cout<<"ingresa un numero mayor a 70"<<endl;
@@ -35,6 +36,17 @@ int main(){
     return 0;
 
 
+
+}
+
+void condicional_do(){
+    int numero;
+    do
+    {
+            cout <<  "Ingrese un numero ";
+            cin >> numero;
+    }
+    while(numero <= 100); //if numero is less than 100.Do is going to repeat the action.
 
 }
 
